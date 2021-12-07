@@ -336,3 +336,8 @@ body {
 
 .email-link .social-icon {
   vertical-align: middle; }
+
+  @media (max-width: 564px) {
+    body {
+  background-color: #861FE0; }
+  }
